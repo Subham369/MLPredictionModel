@@ -1,0 +1,3 @@
+include ':mlpython'
+include ':app'
+rootProject.name = "MLPredictionApp"
